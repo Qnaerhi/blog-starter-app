@@ -1,7 +1,7 @@
 ---
 title: "Eka testiposti"
 excerpt: "Tässä näkyy preview"
-coverImage: "/assets/blog/dynamic-routing/cover.png"
+coverImage: "/assets/blog/eka-testiposti/cover.png"
 date: "2024-09-24T05:35:07.322Z"
 author:
   name: Kuisma Närhi
