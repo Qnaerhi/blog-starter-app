@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public\\assets\\blog",
+    "\\public\\assets\\blog\\authors",
+    "\\public\\assets\\blog\\dynamic-routing",
+    "\\public\\assets\\blog\\hello-world",
+    "\\public\\assets\\blog\\preview",
+    "\\src\\app\\posts\\[slug]"
+  ],
+  "SelectedNode": "\\.editorconfig",
+  "PreviewInSolutionExplorer": false
+}
